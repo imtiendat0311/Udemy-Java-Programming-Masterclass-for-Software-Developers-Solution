@@ -23,15 +23,4 @@ public class NumberOfDaysInMonth {
             else{ return 30;}    
             }
         }
-        public static void main (String args[]){
-            System.out.println(isLeapYear (-1600));
-            System.out.println(isLeapYear (1600));
-            System.out.println(isLeapYear (2017));
-            System.out.println(isLeapYear (2000));
-            System.out.println(getDaysInMonth(1, 2020));
-            System.out.println(getDaysInMonth(2, 2020));
-            System.out.println(getDaysInMonth(2, 2018));
-            System.out.println(getDaysInMonth(-1, 2020));
-            System.out.println(getDaysInMonth(1, -2020));
-        }
     }
