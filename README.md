@@ -4,7 +4,7 @@ Still Updating ..... <br />
 Exercise problems begin at Section 4.<br />
 
 Section 4 - Java Tutorial: Expressions, Statements, Code blocks, Methods, and more. [done] <br />
-Section 5 - Control Flow Statements.<br />
+Section 5 - Control Flow Statements.[done] <br />
 Section 6 - OOP Part 1: Classes, Constructors, and Inheritance.<br />
 Section 7 - OOP Part 2: Composition, Encapsulation, and Polymorphism. (Has no exercises, but has video challenges.)<br />
 Section 8 - Arrays, Java inbuilt Lists, Autoboxing, and Unboxing.<br />
